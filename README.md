@@ -1,4 +1,4 @@
-# hyb2vis
+# hyb2vis_gis
 This repository is supported by Hayabusa2# International Visibility Enhancement Project:
 https://hayabusa2visibility.jaxa.jp/
 
@@ -12,3 +12,6 @@ This includes Jupyter Notebook examples of Hayabusa2 GIS data analyses. The samp
 - GeoPandas
 - Rasterio
 - Shapely
+
+# Authors
+Eri Tatsumi (tatsumi.eri@jaxa.jp), Ichikawa Mayumi (ichikawa.mayumi@jaxa.jp)
